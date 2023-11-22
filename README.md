@@ -11,4 +11,4 @@
 - Comparação entre o resultado de diferentes algoritmos de uma maneira válida usando as métricas de performance;
 - Como apresentar os resultados de forma eficiente para toda a sua empresa;
 - Resolução um problema real com dados reais.
-####  ✅ <a href="link">Certificado</a> - Finalizado em 22 de novembro de 2023
+####  ✅ <a href="https://cursos.alura.com.br/user/diassmatheus/course/modelos-preditivos-deteccao-fraude/certificate">Certificado</a> - Finalizado em 22 de novembro de 2023
