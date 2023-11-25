@@ -1,6 +1,6 @@
 # <p align="center"> <b> Curso: Modelos preditivos em dados - Detecção de fraude </b> 
 
-####  📓 <a href="link">Notebook</a> desenvolvido durante o curso 
+####  📓 <a href="Detectando Fraudes E-commerce.ipynb">Notebook</a> desenvolvido durante o curso 
 ####  ✏️ Curso da plataforma <a href="https://cursos.alura.com.br/course/modelos-preditivos-deteccao-fraude">Alura</a> 
 ####  ⏰ Duração: 10h 
 ####  📜 Conteúdo:
